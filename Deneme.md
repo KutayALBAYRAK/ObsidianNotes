@@ -1,0 +1,1 @@
+Bu notu Obsidian windows versiyonda yazıyorum ve bu notun fedora versiyonunda da görünmesi gerekiyor.

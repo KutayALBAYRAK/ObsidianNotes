@@ -1,3 +1,7 @@
+---
+color: ""
+sticker: ""
+---
 1- Civil 3D'de superelevation design criteria oluşturmakla ilgili video'daki (https://youtu.be/LrX7jgfG8vQ?si=V1xy-iHIykgOLbW-) işlemlerin yapımı için ekran resimleri ile destekli bir "How to" notu yazılacak. Karayolları tasarım el kitabına göre Emax=4, Emax=6 ve Emax=8 için ilgili değerler girilerek Türk Karayolu dever standardı oluşturulup kütüphaneye eklenecek.
 
 2- Eldeki yönetmelikler kategorilerine göre ayrıştırılıp, yapay zeka eğitimi için temel oluşturacak şekilde NotebookLM ve Obsidian üzerinde kütüphaneleştirilecek.

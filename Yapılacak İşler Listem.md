@@ -6,3 +6,4 @@
 
 4- Fedora'daki obsidian kurulumu için topluluk eklentilerinden; Editing Toolbar, Make.md kur. [[!!! ÖNEMLİ !!!]]
 
+

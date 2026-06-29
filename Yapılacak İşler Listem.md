@@ -4,4 +4,5 @@
 
 3- MSI cihazın içerisinde Windows tarafında bulunan ve yedeklenmesinde fayda olabilecek tüm içerikler kütüphane üzerinde sistemli bir şekilde yedeklenmeli. **(Ardından format düşünülebilir)**
 
+4- Fedora'daki obsidian kurulumu için topluluk eklentilerinden; Editing Toolbar, Make.md kur. [[!!! ÖNEMLİ !!!]]
 
